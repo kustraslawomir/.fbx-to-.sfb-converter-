@@ -1,5 +1,4 @@
 # .fbx-to-.sfb-converter-
-Android Studio project used to convert fbx files to sfb.
 
 
  Download Android Studio 3.5 https://redirector.gvt1.com/edgedl/android/studio/ide-zips/3.5.0.21/android-studio-ide-191.5791312-windows.zip (other versions will not work).
